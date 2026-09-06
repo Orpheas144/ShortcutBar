@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/User/C stuff/ShortcutBar/cmake-build-debug",
+  "command": "C:\\PROGRA~2\\MICROS~2\\18\\BUILDT~1\\VC\\Tools\\MSVC\\1451~1.362\\bin\\Hostx64\\x64\\cl.exe  /nologo -external:IC:\\Users\\User\\vcpkg\\installed\\x64-windows\\include -external:IC:\\Users\\User\\vcpkg\\installed\\x64-windows\\include\\SDL2 -external:W0 /DWIN32 /D_WINDOWS /Zi /Ob0 /Od /RTC1 -std:c11 -MDd /FoCMakeFiles\\ShortcutBar.dir\\main.c.obj /FdCMakeFiles\\ShortcutBar.dir\\ /FS -c \"C:\\Users\\User\\C stuff\\ShortcutBar\\main.c\"",
+  "file": "C:/Users/User/C stuff/ShortcutBar/main.c",
+  "output": "C:/Users/User/C stuff/ShortcutBar/cmake-build-debug/CMakeFiles/ShortcutBar.dir/main.c.obj"
+}
+]

@@ -1,0 +1,3 @@
+C:/Users/User/C stuff/ShortcutBar/cmake-build-debug/CMakeFiles/ShortcutBar.dir
+C:/Users/User/C stuff/ShortcutBar/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/User/C stuff/ShortcutBar/cmake-build-debug/CMakeFiles/rebuild_cache.dir
